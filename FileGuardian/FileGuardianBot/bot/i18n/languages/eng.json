@@ -75,7 +75,7 @@
         "passUpdated" : "🔒 <b>Password Updated...</b>\n\nClick the button below to find out! 🤫👇",
         "passworDlt" : "🚫 Delete Password..",
         "enterPass" : "✍️ Now Enter Password..",
-        "closeCB" : { "🚶‍♀️ Close 🚶‍♀️" : "close"},
+        "closeCB" : { "🚶‍♀️ Close " : "close"},
         "passUpdCB" : { "VIEW PASSWORD" : "%s", "🚶‍♀️ Close 🚶‍♀️" : "close" },
         "askPassword" : "<b>This file is secure with a password 🔒.</b>\n\n<i>Use the button below if you have the password to access it.</i> 👇🔑",
         "askPswdButon" : { "😎 i know the password 😎" : ":get %s " },
