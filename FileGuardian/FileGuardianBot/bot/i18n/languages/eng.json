@@ -2,7 +2,7 @@
     "onlyAdmin" : {
         "message" : "Unfortunately, only Bot Admins can use this bot.\n\nTry the button below to create your own. It's super easy!",
         "button" : {
-            "Create My Own Bot" : "https://github.com/nabilanavab/FileGuardianBot"
+            "Create My Own Bot" : "https://github.com/KeerthivasanKvm/-AniBlue-FileShareBot"
         }
     },
     "addToken" : {
